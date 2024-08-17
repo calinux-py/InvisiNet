@@ -26,29 +26,10 @@ InvisiNet is a Python-based network monitoring tool designed for use in security
 ## Installation
 
 1. **Clone the Repository:**
-   - Clone the InvisiNet repository from GitHub:
+   - Clone the InvisiNet repository from GitHub, install the requirments, and run InvisiNet:
      ```bash
-     git clone https://github.com/calinux-py/InvisiNet.git
+     git clone https://github.com/calinux-py/InvisiNet.git && cd InvisiNet && pip install -r requirements.txt && cd InvisiNet && python main.py
      ```
-
-2. **Navigate to the Project Directory:**
-   - Change to the `InvisiNet` directory:
-     ```bash
-     cd InvisiNet
-     ```
-
-3. **Install Dependencies:**
-   - Install the required Python packages by running:
-     ```bash
-     pip install -r requirements.txt && cd InvisiNet
-     ```
-
-4. **Run the Script:**
-   - Start the tool by running the main Python script:
-     ```bash
-     python main.py
-     ```
-
      
    - The script will automatically start scanning your network and monitoring for new devices.
 
