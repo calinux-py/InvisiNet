@@ -38,7 +38,7 @@ InvisiNet is a Python-based network monitoring tool designed for use in security
 InvisiNet can be utilized in various scenarios, including but not limited to:
 
 - **Security Systems:** Monitor the network for unauthorized devices and raise an alarm if a new device connects.
-- **Smart Home Applications:** Integrate with smart home systems to identify and manage device connectivity automatically. For example, when you arrive from home and your device connects, you can trigger other events, such as smart lights, speakers, etc.
+- **Smart Home Applications:** Integrate with smart home systems to automatically identify and manage device connectivity. For example, when you arrive home and your device connects to the network, it can trigger other events, such as turning on smart lights, smart AC, activating speakers, etc.
 - **Fun:** Offers about 60 seconds worth of entertainment.
 
 ## License
